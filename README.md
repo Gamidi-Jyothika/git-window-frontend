@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # docker-git-window-frontend
 # git-window-frontend
 # git-window-frontend
+# docker-commerce-frontend
